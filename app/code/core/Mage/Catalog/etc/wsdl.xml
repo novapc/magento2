@@ -135,6 +135,8 @@
                     <element name="custom_design" type="xsd:string" minOccurs="0"/>
                     <element name="custom_layout_update" type="xsd:string" minOccurs="0"/>
                     <element name="options_container" type="xsd:string" minOccurs="0"/>
+                    <element name="news_from_date" type="xsd:string" minOccurs="0"/>
+                    <element name="news_to_date" type="xsd:string" minOccurs="0"/>
                     <element name="additional_attributes" type="typens:catalogProductAdditionalAttributesEntity" minOccurs="0"/>
                     <element name="configurable_attributes" type="typens:catalogProductConfigurableAttributesEntityArray" minOccurs="0"/>
                 </all>
